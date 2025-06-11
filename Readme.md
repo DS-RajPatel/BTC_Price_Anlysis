@@ -113,7 +113,7 @@ python DataCollection.py
 3. Configure real-time refresh settings
 
 ## 📊 Data Collection Details
-
+```
 The system collects the following data points every minute:
 |------------------------------------------------------------|
 | Field            | Description             | Type          |
@@ -128,6 +128,7 @@ The system collects the following data points every minute:
 | direction        | Market direction        | VARCHAR(10)   |
 | volatility       | Price volatility measure| DECIMAL(10,4) |
 |------------------------------------------------------------|
+```
 ## 🎯 Performance Metrics
 
 - **Data Collection**: 1,440 data points per day

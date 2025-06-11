@@ -8,7 +8,7 @@ import time
 server = 'btc-sql-server.database.windows.net'
 database = 'BTCData'
 username = 'Raj_btcadmin'
-password = 'Shivam@73598'  # replace with your actual password
+password = '************'  # replace with your actual password
 
 connection_str = f"DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}"
 
